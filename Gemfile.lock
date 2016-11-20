@@ -157,6 +157,7 @@ GEM
       actionmailer (>= 3, < 6)
       premailer (~> 1.7, >= 1.7.9)
     public_suffix (2.0.4)
+    puma (3.6.0)
     rabl (0.12.0)
       activesupport (>= 2.3.14)
     rack (1.6.5)
@@ -321,6 +322,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
+  puma
   rails (= 4.2.5)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
