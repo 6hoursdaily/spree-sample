@@ -54,4 +54,6 @@ by Jerry Pascua ([6hoursdaily](https://twitter.com/6hoursdaily))
 
 ## TEST IN BROWSER
 http://localhost:3001
-http://localhost:3001/admin - spree@example.com / spree123
+
+http://localhost:3001/admin 
+  * spree@example.com / spree123
