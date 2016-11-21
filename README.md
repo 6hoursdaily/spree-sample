@@ -37,9 +37,9 @@ by Jerry Pascua ([6hoursdaily](https://twitter.com/6hoursdaily))
 
   Setup ENV vars
 
-    echo ‘SECRET_KEY_BASE=ChangeMe_4325465f7tu’ >> .env
-    echo SECRET_TOKEN=ChangeMe_tdxyfughkjly’ >> .env
-    echo DEVISE_SECRET_KEY=ChangeMe_uit64eytd’ >> .env
+    echo 'SECRET_KEY_BASE=ChangeMe_4325465f7tu' >> .env
+    echo 'SECRET_TOKEN=ChangeMe_tdxyfughkjly' >> .env
+    echo 'DEVISE_SECRET_KEY=ChangeMe_uit64eytd' >> .env
 
   Setup Spree migrations and seed
 
