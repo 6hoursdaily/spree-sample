@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.6.2'
 
-gem 'rails', '5.2.2'
+gem 'rails', '~> 5.2.4'
 gem 'sqlite3'
 gem 'sass-rails'
 gem 'uglifier'
@@ -11,7 +11,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'sdoc'
-gem 'puma'
+gem 'puma', '~> 4.3.3'
 
 group :development, :test do
   gem 'byebug'
