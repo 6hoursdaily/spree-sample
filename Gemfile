@@ -11,7 +11,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'sdoc'
-gem 'puma', '~> 4.3.3'
+gem 'puma', '~> 4.3.5'
 
 group :development, :test do
   gem 'byebug'
